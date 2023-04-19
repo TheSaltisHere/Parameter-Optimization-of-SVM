@@ -32,7 +32,7 @@ This dataset was used in several classifications tasks related to the challenge 
 ![graph](https://user-images.githubusercontent.com/73683708/233207173-945ebd99-1c48-4509-9847-7c32d05b3643.png)
 
 ## Discussion
-The graph is made for the sample which has best accuracy. Sample has the best accuracy of 0.962 having kernel = rbf, nu= 2.34 and epsilon=2.56.
+The graph is made for the sample which has best accuracy. Because the sample was big number of iterations had to be low as more would be extremely time consuing.Numnber of iterations was set to 10 .Sample has the best accuracy of 0.962 having kernel = rbf, nu= 2.34 and epsilon=2.56.
 
 ## Written By
 Name : RIshab Chakrabarti
